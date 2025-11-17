@@ -1,3 +1,2 @@
-# My-first-project
-First UX design project using Figma. Includes wireframes for a beginner-friendly shopping site: homepage, product listing, and checkout flow. Focuses on user flow, visual hierarchy, and responsive layout. Open to feedback as I learn and improve.
-https://www.figma.com/design/2FOWW4UrbrhWUM2FxtDTVQ/Untitled?node-id=0-1&t=rkDUJU2YAg0MrjlC-1
+First UX design project using Figma. Includes wireframes for a beginner-friendly shopping site, including the homepage, product listing, and checkout flow. Focuses on user flow, visual hierarchy, and responsive layout. Open to feedback as I learn and improve.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/2FOWW4UrbrhWUM2FxtDTVQ/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
